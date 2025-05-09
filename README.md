@@ -1,4 +1,4 @@
-# Cancer-ML-PREDICTIVE MODELLING & CLUSTERING
+# CANCER-ML-PREDICTIVE MODELLING & CLUSTERING
 ## Introduction
 This project applies machine learning techniques to classify and cluster cancer patient data from the UAE, with the goal of enhancing diagnostic support and uncovering key patterns in patient demographics, disease progression, and treatment outcomes.
 
